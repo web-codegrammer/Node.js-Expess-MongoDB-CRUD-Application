@@ -9,8 +9,8 @@ Concepts Covered :
 ## Get the Code on your Local Machine
 
 ```
-$ git clone https://github.com/CodAffection/Node.js-Expess-MongoDB-CRUD.git
-$ cd Node.js-Expess-MongoDB-CRUD/project
+$ git clone https://github.com/web-codegrammer/Node.js-Expess-MongoDB-CRUD-Application.git
+$ cd Node.js-Expess-MongoDB-CRUD-Application
 $ npm install
 ```
 
